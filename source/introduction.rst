@@ -5,14 +5,17 @@ Welcome to Designed to Crunch
 
 This Nova award is designed to help you explore how math affects your life each day.
 
-The site is organized per requirement. To succesfully complete the requirements, the scout will get in touch with an approved Nova Counselor and give proofs of completion.
+Instructions
+------------
 
-Before you start anything, make sure you identify a counselor and read carefully the section below on how to complete and document your progress!
+1. Identify a **Nova Counselor** either within your unit, district, or council.
+2. This site provides you a platform for learning and you can easily follow all requirements using the navigation menu on the left. 
+3. Once you have identified a Counselor, you can start working on requirements. The most important aspect in any scientific endeavor is to **properly document progress**. This will be done, here, using a google sheet as described in more details below. 
 
 Documenting your progress
 -------------------------
 
-A template worksheet can be found `here <bdbdbd>`_. This is a *Google document*. You will not be able to modify it until you make your own copy as I will now describe for you.
+1. For your convenience, a template worksheet can be found `here <iframe src="https://docs.google.com/document/d/e/2PACX-1vSHsBImuzyCG_EjWmkUFD005RoSDf9Hv3WT4jPfVzcqKKrgShEhWvnEgh2quooDPhH2Pc9gjk4Kboup/pub?embedded=true"></iframe>`_. This is a *Google document*. You will not be able to modify it until you make your own copy as I will now describe for you.
 
 
 If you have any question
