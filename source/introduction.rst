@@ -15,7 +15,16 @@ Instructions
 Documenting your progress
 -------------------------
 
-1. For your convenience, a template worksheet can be found `here <https://docs.google.com/document/d/1Hoqz-rU-vgZ_VLSfCU9onEyMMCR3jnbiL0DdHXuHA-Y/edit?usp=sharing>`_. This is a *Google document*. You will not be able to modify it until you make your own copy as I will now describe for you.
+1. For your convenience, a template worksheet can be found `here <https://docs.google.com/document/d/1Hoqz-rU-vgZ_VLSfCU9onEyMMCR3jnbiL0DdHXuHA-Y/edit?usp=sharing>`_. This is a *Google document*. **You will not be able to modify it until you make your own copy as I will now describe for you.**
+2. Once you have opened the file on google doc, go to File -> Make a Copy
+3. Save the file with the following name: Nova_designed_to_crunch_FIRSTNAME_LASTNAME
+4. You will use that file to enter your progress and share with your counselor. 
+5. Sharing with your counselor: you can share your own copy of the worksheet using the following procedure: 
+	a) click on the SHARE button on the top-right. 
+	b) click on "get link"
+	c) send the link to your advisor
+	
+.. warning:: Completing this Award must obey all rules of safe scouting. This includes (1) Completing Cyber Chip prior to starting this activity and (2) **ALWAYS** involve at least 2 adults in all your communication with a leader, including online. If you send email to your counselor, always add the address of another adult leader or a parent/guardian. Never reply to a message sent by an adult leader unless another adult has been copied on the email.  	
 
 
 If you have any question
