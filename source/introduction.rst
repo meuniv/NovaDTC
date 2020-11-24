@@ -15,7 +15,7 @@ Instructions
 Documenting your progress
 -------------------------
 
-1. For your convenience, a template worksheet can be found `here <iframe src="https://docs.google.com/document/d/e/2PACX-1vSHsBImuzyCG_EjWmkUFD005RoSDf9Hv3WT4jPfVzcqKKrgShEhWvnEgh2quooDPhH2Pc9gjk4Kboup/pub?embedded=true"></iframe>`_. This is a *Google document*. You will not be able to modify it until you make your own copy as I will now describe for you.
+1. For your convenience, a template worksheet can be found `here <https://docs.google.com/document/d/1Hoqz-rU-vgZ_VLSfCU9onEyMMCR3jnbiL0DdHXuHA-Y/edit?usp=sharing>`_. This is a *Google document*. You will not be able to modify it until you make your own copy as I will now describe for you.
 
 
 If you have any question
