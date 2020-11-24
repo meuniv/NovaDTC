@@ -21,7 +21,7 @@ Documenting your progress
 2. Once you have opened the file on google doc, go to File -> Make a Copy
 3. Save the file with the following name: *Nova_designed_to_crunch_FIRSTNAME_LASTNAME*
 4. You will use that file to enter your progress and share with your counselor.
-5. Sharing with your counselor: you can share your own copy of the worksheet using the following procedure. 
+5. Sharing with your counselor: you can share your own copy of the worksheet using the following procedure.
 	a) click on the SHARE button on the top-right. 
 	b) click on "get link"
 	c) send the link to your advisor
