@@ -24,7 +24,7 @@ Documenting your progress
 	b) click on "get link"
 	c) send the link to your advisor
 	
-.. warning:: Completing this Award must obey all rules of safe scouting. This includes (1) Completing Cyber Chip prior to starting this activity and (2) **ALWAYS** involve at least 2 adults in all your communication with a leader, including online. If you send email to your counselor, always add the address of another adult leader or a parent/guardian. Never reply to a message sent by an adult leader unless another adult has been copied on the email.  	
+.. warning:: Completing this Award must obey all rules of safe scouting. This includes (1) Completing Cyber Chip prior to starting this activity and (2) **ALWAYS** involve at least 2 adults in all your communications with a leader, including online. If you send email to your counselor, always add the address of another adult leader or a parent/guardian. Never reply to a message sent by an adult leader unless another adult has been copied on the email. Report any issue to your parents/guardians!	
 
 
 If you have any question
