@@ -20,7 +20,7 @@ Documenting your progress
 1. For your convenience, a template worksheet can be found `here <https://docs.google.com/document/d/1Hoqz-rU-vgZ_VLSfCU9onEyMMCR3jnbiL0DdHXuHA-Y/edit?usp=sharing>`_. This is a *Google document*. **You will not be able to modify it until you make your own copy as I will now describe for you.**
 2. Once you have opened the file on google doc, go to File -> Make a Copy
 3. Save the file with the following name: *Nova_designed_to_crunch_FIRSTNAME_LASTNAME*
-4. You will use that file to enter your progress and share with your counselor. 
+4. You will use that file to enter your progress and share with your counselor.
 5. Sharing with your counselor: you can share your own copy of the worksheet using the following procedure: 
 	a) click on the SHARE button on the top-right. 
 	b) click on "get link"
