@@ -53,6 +53,7 @@ html_static_path = ['_static']
 
 html_logo =  '_images/logo_dtc.png'
 logo_only = True
+display_version = False
 
 latex_custom = r'''
 \definecolor{Admonition}{RGB}{221,233,239}
