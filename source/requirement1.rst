@@ -28,4 +28,19 @@ Choose A or B or C or D and complete ALL the requirements.
       (1) Make a list of at least two questions or ideas from each article, website, or show.
       (2) Discuss two of the questions or ideas with your counselor.
 
+
+.. Note: Challenge
+
+   Math and Logic are two sides of the same coin. Can you solve this logic problem ?
+
+   *There are three hats, each with an accompanying statement*
+
+   * Hat One: The cat is in this hat.
+
+   * Hat Two: The cat is not in this hat.
+
+   * Hat Three: The cat is not in Hat One.
+
+   *Exactly one of the statements is true. Exactly one hat contains a cat.* ** Which hat contains the cat?**
+   
 .. attention:: Once you have completed this requirement, make sure you document it in your worksheet!
