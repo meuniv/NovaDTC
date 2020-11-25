@@ -41,6 +41,8 @@ Choose A or B or C or D and complete ALL the requirements.
 
    * Hat Three: The cat is not in Hat One.
 
-   *Exactly one of the statements is true. Exactly one hat contains a cat.* ** Which hat contains the cat?**
+   *Exactly one of the statements is true. Exactly one hat contains a cat.* 
+   
+   ** Which hat contains the cat?**
    
 .. attention:: Once you have completed this requirement, make sure you document it in your worksheet!
