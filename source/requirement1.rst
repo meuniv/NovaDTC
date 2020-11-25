@@ -30,6 +30,7 @@ Choose A or B or C or D and complete ALL the requirements.
 
 
 .. admonition::  Additional Challenge
+   
    Math and Logic are two sides of the same coin. Can you solve this logic problem ?
 
    *There are three hats, each with an accompanying statement*
