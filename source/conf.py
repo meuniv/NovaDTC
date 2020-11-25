@@ -53,4 +53,25 @@ html_static_path = ['_static']
 
 html_logo =  '_images/logo_dtc.png'
 logo_only = True
+display_version = False
 
+latex_custom = r'''
+\definecolor{Admonition}{RGB}{221,233,239}
+
+\makeatletter
+  \newenvironment{admonitionbox}{
+    \begin{lrbox}{\@tempboxa}\begin{minipage}{\columnwidth}
+  }{
+    \end{minipage}\end{lrbox}
+    \colorbox{Admonition}{\usebox{\@tempboxa}}
+  }
+
+  \renewenvironment{notice}[2]{
+    \begin{admonitionbox}
+  }{
+    \end{admonitionbox}
+  }
+\makeatother
+'''
+
+latex_elements = {'preamble': latex_custom}
