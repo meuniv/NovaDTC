@@ -28,8 +28,7 @@ Choose A or B or C or D and complete ALL the requirements.
       (1) Make a list of at least two questions or ideas from each article, website, or show.
       (2) Discuss two of the questions or ideas with your counselor.
 
-
-.. Note: Challenge
+.. Note:: Challenge
 
    Math and Logic are two sides of the same coin. Can you solve this logic problem ?
 
