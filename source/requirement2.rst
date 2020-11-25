@@ -16,5 +16,12 @@ After completion, discuss with your counselor how the merit badge you earned use
 * Surveying
 * Weather
 
+.. figure:: _images/meritbadges.png 
+   :width: 500px
+   :align: center
+   :alt: alternate text
+   :figclass: align-center
+   
+
 
 .. attention:: Once you have completed this requirement, make sure you document it in your worksheet!
