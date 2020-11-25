@@ -16,7 +16,7 @@ After completion, discuss with your counselor how the merit badge you earned use
 * Surveying
 * Weather
 
-.. figure:: https://newbirthoffreedom.org/wp-content/uploads/2017/01/summer-camp-merit-badges-2017.jpg
+.. figure:: _images/meritbadges.png 
    :width: 500px
    :align: center
    :alt: alternate text
