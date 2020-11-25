@@ -26,7 +26,7 @@ Welcome to Nova -- Designed to Crunch's Online Learning!
 .. figure:: https://static.scientificamerican.com/blogs/cache/file/15E43A6F-3941-471A-BF4A81AECDC8C8AA_source.jpg
    :width: 500px
    :align: center
-   .. :height: 100px
    :alt: alternate text
    :figclass: align-center
+   
    Image obtained from Scientific American website. 
