@@ -17,7 +17,7 @@ After completion, discuss with your counselor how the merit badge you earned use
 * Weather
 
 .. figure:: _images/meritbadges.png 
-   :width: 500px
+   :width: 700px
    :align: center
    :alt: alternate text
    :figclass: align-center
