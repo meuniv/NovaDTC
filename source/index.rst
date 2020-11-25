@@ -16,6 +16,7 @@ Welcome to Nova -- Designed to Crunch's Online Learning!
    requirement3
    requirement4
    requirement5
+   contact
    
 ..
    .. image:: _images/logo4.png
