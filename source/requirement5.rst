@@ -1,7 +1,7 @@
 Requirement #5: Math @ Life
 ++++++++++++++++++++++++++++
 
-:math:`\righarrow`_ Discuss with your counselor how math affects your everyday life.
+:math:`\rightarrow` Discuss with your counselor how math affects your everyday life.
 
 .. admonition:: Additional Challenge:
 
