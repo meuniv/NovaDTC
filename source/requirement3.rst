@@ -55,7 +55,7 @@ E. How starry are your nights? Participate in a star count to find out. This may
 .. note:: Afterward, share and discuss your results with your counselor.
 
 .. figure:: _images/turing.png
-   :width: 800px
+   :width: 600px
    :align: center
    :alt: alternate text
    :figclass: align-center
