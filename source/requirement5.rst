@@ -1,7 +1,7 @@
 Requirement #5: Math @ Life
 ++++++++++++++++++++++++++++
 
-:math:`\mathbf{\rightsquigarrow}` Discuss with your counselor how math affects your everyday life.
+:math:`\textcolor{red}{\mathbb{REQ}\Large \rightsquigarrow}` Discuss with your counselor how math affects your everyday life.
 
 .. admonition:: Additional Challenge:
 
