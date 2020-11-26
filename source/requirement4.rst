@@ -9,7 +9,7 @@ Do ALL of the following:
 
 .. Admonition:: Additional Challenge
 
-   Find out about **RPN*, which stands for `Reverse Polish Notation <https://en.wikipedia.org/wiki/Reverse_Polish_notation>`_. Try it and if you are like me, you    won't be able to use the old approach anymore. This is particulalry true if you find it difficult to use parentheses on your calculator! In addition, it has been shown that you will make fewer mistakes compare to using other types of calculators!
+   Find out about **RPN**, which stands for `Reverse Polish Notation <https://en.wikipedia.org/wiki/Reverse_Polish_notation>`_. Try it and if you are like me, you    won't be able to use the old approach anymore. This is particulalry true if you find it difficult to use parentheses on your calculator! In addition, it has been shown that you will make fewer mistakes compare to using other types of calculators!
 
 .. figure:: _images/calculator.png 
    :width: 300px
