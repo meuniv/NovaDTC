@@ -29,7 +29,7 @@ Documenting your progress
 
 For your convenience, these instructions are also available as a short Youtube video below. 
 
-.. info:: This document provides you a guide to complete the Nova award! All requirements are marked with the following symbol: :math:`\boxed{\mathbb{REQ}\Large \rightsquigarrow}`. In addition, a number of fun *Addditional Challenges** are provided in boxes.
+.. Note:: This document provides you a guide to complete the Nova award! All requirements are marked with the following symbol: :math:`\boxed{\mathbb{REQ}\Large \rightsquigarrow}`. In addition, a number of fun *Addditional Challenges** are provided in boxes.
 
 If you have any question
 ------------------------
@@ -43,6 +43,6 @@ Contact your counselor or your scoutmaster! If you have questions about the prog
 
 
 
-.. Note:: Most of the material used here was obtained from a number of external scouting sources, including `scouting.org <https://www.scouting.org/wp-content/uploads/2018/11/Designed-to-Crunch-Nova-2018Nov26.pdf>`_
+
 	  
 	   
