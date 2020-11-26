@@ -29,7 +29,7 @@ Documenting your progress
 
 For your convenience, these instructions are also available as a short Youtube video below. 
 
-.. Note:: This document provides you a guide to complete the Nova award! All requirements are marked with the following symbol: :math:`\boxed{\mathbb{REQ}\Large \rightsquigarrow}`. In addition, a number of fun *Addditional Challenges** are provided in boxes.
+.. Note:: This document provides you a guide to complete the Nova award! All requirements are marked with the following symbol: :math:`\boxed{\mathbb{REQ}\Large \rightsquigarrow}`. In addition, a number of fun *Additional Challenges* are provided in boxes for your entertainment. 
 
 If you have any question
 ------------------------
