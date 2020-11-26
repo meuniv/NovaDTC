@@ -54,7 +54,7 @@ E. How starry are your nights? Participate in a star count to find out. This may
 
 .. note:: Afterward, share and discuss your results with your counselor.
 
-.. figure:: https://hackaday.com/wp-content/uploads/2018/03/mechanical-turing-machine-in-wood-vo8izckhif0mp4-shot0001_featured.png?w=800
+.. figure:: _images/turin.png
    :width: 800px
    :align: center
    :alt: alternate text
