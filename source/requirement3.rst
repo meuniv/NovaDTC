@@ -1,6 +1,6 @@
 Requirement #3: Calculation
 +++++++++++++++++++++++++++
-Choose TWO from A or B or C or D or E and complete ALL the requirements for the two you choose. (Write down your data and calculations to support your explanation to your counselor. You may use a spreadsheet. Do not use someone else’s data or calculations.)
+:math:`\boxed{\mathbb{REQ}\Large \rightsquigarrow}` Choose TWO from A or B or C or D or E and complete ALL the requirements for the two you choose. (Write down your data and calculations to support your explanation to your counselor. You may use a spreadsheet. Do not use someone else’s data or calculations.)
 
 A. Calculate your horsepower when you run up a flight of stairs.
 
