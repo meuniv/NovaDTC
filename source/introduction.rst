@@ -42,10 +42,12 @@ Other Nova modules in this series
       :scale: 80 %                             
       :target: https://novadtc.readthedocs.io  
                                                
+
    .. image:: _images/logo-shoot_black.png           
       :scale: 80 %                             
       :target: https://novashoot.readthedocs.io	    
-              `
+
+	       
 If you have any question
 ------------------------
 
