@@ -1,11 +1,7 @@
 Requirement #5: Math @ Life
 ++++++++++++++++++++++++++++
 
-.. role:: bluetext
-
-I like color :bluetext:`blue`.
-
-Discuss with your counselor how math affects your everyday life.
+:math:`\righarrow`_ Discuss with your counselor how math affects your everyday life.
 
 .. admonition:: Additional Challenge:
 
