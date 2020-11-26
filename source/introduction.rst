@@ -1,7 +1,7 @@
 .. _introduction:
 
-Welcome to Designed to Crunch
-+++++++++++++++++++++++++++++
+Welcome to *Designed to Crunch*
++++++++++++++++++++++++++++++++
 
 This Nova award is designed to help you explore how math affects your life each day.
 
