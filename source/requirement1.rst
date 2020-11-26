@@ -1,7 +1,7 @@
 Requirement #1: Research and Reading
 ++++++++++++++++++++++++++++++++++++
 
-Choose A or B or C or D and complete ALL the requirements.
+:math:`\boxed{\mathbb{REQ}\Large \rightsquigarrow}` Choose A or B or C or D and complete ALL the requirements.
    
    A. Watch about three hours total of math-related shows or documentaries that involve scientific models and modeling, physics, sports equipment design, bridge building, or cryptography. Then do the following:
       
