@@ -11,7 +11,8 @@ Discuss with your counselor how math affects your everyday life.
       :align: center
       :alt: alternate text
       :figclass: align-center
-      Challenge copied from `<https://www.mashupmath.com/>`_
+      
+      Challenge copied from `<https://www.mashupmath.com/>`_.
    
    
 .. attention:: Once you have completed this requirement, make sure you document it in your worksheet!
