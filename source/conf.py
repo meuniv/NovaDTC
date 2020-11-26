@@ -74,4 +74,8 @@ latex_custom = r'''
 \makeatother
 '''
 
-latex_elements = {'preamble': latex_custom}
+#latex_elements = {'preamble': latex_custom}
+
+latex_elements = {
+  'extraclassoptions': 'openany,oneside'
+}
