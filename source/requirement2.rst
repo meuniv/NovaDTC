@@ -1,7 +1,7 @@
 Requirement #2: Merit Badge
 +++++++++++++++++++++++++++
 
-Complete ONE merit badge from the following list. Choose one that you have not already used toward another Nova award.
+:math:`\boxed{\mathbb{REQ}\Large \rightsquigarrow}` Complete ONE merit badge from the following list. Choose one that you have not already used toward another Nova award.
 After completion, discuss with your counselor how the merit badge you earned uses mathematics.
 
 * American Business
