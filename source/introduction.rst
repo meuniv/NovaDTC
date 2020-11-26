@@ -32,6 +32,20 @@ Documenting your progress
 
 .. Note:: This document provides you a guide to complete the Nova award! All requirements are marked with the following symbol: :math:`\boxed{\mathbb{REQ}\Large \rightsquigarrow}`. In addition, a number of fun *Additional Challenges* are provided in boxes for your entertainment. 
 
+
+Other Nova modules in this series
+---------------------------------
+
+.. Admonition:: More will be added, check regularly!
+
+   .. image:: _images/logo-dtc2_black.png            
+      :scale: 80 %                             
+      :target: https://novadtc.readthedocs.io  
+                                               
+   .. image:: _images/logo-shoot_black.png           
+      :scale: 80 %                             
+      :target: https://novashoot.readthedocs.io	    
+              `
 If you have any question
 ------------------------
 
