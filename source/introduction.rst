@@ -12,7 +12,8 @@ Instructions
 
 1. Identify a **Nova Counselor** either within your unit, district, or council.
 2. This site provides you a platform for learning and you can easily follow all requirements using the navigation menu on the left. 
-3. Once you have identified a Counselor, you can start working on requirements. The most important aspect in any scientific endeavor is to **properly document progress**. This will be done, here, using a google sheet as described in more details below. 
+3. Once you have identified a Counselor, you can start working on requirements. 
+4. The most important aspect in any scientific endeavor is to **properly document progress**. This will be done, here, using a google sheet as described in more details below.
 
 Documenting your progress
 -------------------------
@@ -28,7 +29,7 @@ Documenting your progress
 
 For your convenience, these instructions are also available as a short Youtube video below. 
 
-
+.. info:: This document provides you a guide to complete the Nova award! All requirements are marked with the following symbol: :math:`\boxed{\mathbb{REQ}\Large \rightsquigarrow}`. In addition, a number of fun *Addditional Challenges** are provided in boxes.
 
 If you have any question
 ------------------------
