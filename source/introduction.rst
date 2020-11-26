@@ -27,7 +27,8 @@ Documenting your progress
 	b) Click on "get link".
 	c) Send the link to your advisor.
 
-For your convenience, these instructions are also available as a short Youtube video below. 
+..
+   For your convenience, these instructions are also available as a short Youtube video below. 
 
 .. Note:: This document provides you a guide to complete the Nova award! All requirements are marked with the following symbol: :math:`\boxed{\mathbb{REQ}\Large \rightsquigarrow}`. In addition, a number of fun *Additional Challenges* are provided in boxes for your entertainment. 
 
