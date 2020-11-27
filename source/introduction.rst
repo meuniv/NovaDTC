@@ -49,7 +49,7 @@ Other Nova modules in this series
 
    .. image:: _images/logo-lig_black.png           
       :scale: 80 %                             
-      :target: https://novashoot.readthedocs.io	    
+      :target: https://novalig.readthedocs.io	    
 
 	       
 If you have any question
