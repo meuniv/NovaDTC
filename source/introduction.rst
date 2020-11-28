@@ -32,6 +32,12 @@ Documenting your progress
 
 .. Note:: This document provides you a guide to complete the Nova award! All requirements are marked with the following symbol: :math:`\boxed{\mathbb{REQ}\Large \rightsquigarrow}`. In addition, a number of fun *Additional Challenges* are provided in boxes for your entertainment. 
 
+If you have any question
+------------------------
+
+Contact your counselor or your scoutmaster! If you have questions about the program, contact Vincent Meunier  by `email <mailto:vinmeunier@gmail.com>`_ (as usual, make sure you copy an additional adult to all your communications with a leader!).
+
+
 
 Other Nova modules in this series
 ---------------------------------
@@ -52,16 +58,10 @@ Other Nova modules in this series
       :scale: 80 %                             
       :target: https://novalig.readthedocs.io	    
 
-	       
-If you have any question
-------------------------
-
-Contact your counselor or your scoutmaster! If you have questions about the program, contact Vincent Meunier  by `email <mailto:vinmeunier@gmail.com>`_ (as usual, make sure you copy an additional adult to all your communications with a leader!).
-
-.. image:: _images/logo4.png
-   :scale: 50 %
-   :alt: alternate text
-   :align: center
+       
+   .. image:: _images/logo-splash_black.png           
+      :scale: 80 %                             
+      :target: https://novasplash.readthedocs.io	       
 
 
 
