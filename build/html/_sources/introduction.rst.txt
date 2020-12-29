@@ -5,14 +5,29 @@ Welcome to Designed to Crunch
 
 This Nova award is designed to help you explore how math affects your life each day.
 
-The site is organized per requirement. To succesfully complete the requirements, the scout will get in touch with an approved Nova Counselor and give proofs of completion.
+.. warning:: When completing this Award both the youth and involved adult leaders must obey all rules of `Safe Scouting <https://www.scouting.org/health-and-safety/gss/>`_. This includes (1) Completing Cyber Chip prior to starting this activity and (2) **ALWAYS** involve at least 2 adults in all your communications with a leader, including online. If you send email to your counselor, always add the address of another adult leader or a parent/guardian. Never reply to a message sent by an adult leader unless another adult has been copied on the email. Report any issue to your parents/guardians!	
 
-Before you start anything, make sure you identify a counselor and read carefully the section below on how to complete and document your progress!
+Instructions
+------------
+
+1. Identify a **Nova Counselor** either within your unit, district, or council.
+2. This site provides you a platform for learning and you can easily follow all requirements using the navigation menu on the left. 
+3. Once you have identified a Counselor, you can start working on requirements. The most important aspect in any scientific endeavor is to **properly document progress**. This will be done, here, using a google sheet as described in more details below. 
 
 Documenting your progress
 -------------------------
 
-A template worksheet can be found `here <bdbdbd>`_. This is a *Google document*. You will not be able to modify it until you make your own copy as I will now describe for you.
+1. A template worksheet can be found `here <https://docs.google.com/document/d/1Hoqz-rU-vgZ_VLSfCU9onEyMMCR3jnbiL0DdHXuHA-Y/edit?usp=sharing>`_. This is a *Google document*. **You will not be able to modify it until you make your own copy as I will now describe for you.**
+2. Once you have opened the file on google doc, go to File -> Make a Copy
+3. Save the file with the following name: *Nova_designed_to_crunch_FIRSTNAME_LASTNAME*
+4. You will use that file to enter your progress and share with your counselor.
+5. Sharing with your counselor: you can share your own copy of the worksheet using the following procedure.
+	a) click on the SHARE button on the top-right. 
+	b) click on "get link"
+	c) send the link to your advisor
+
+For your convenience, these instructions are also available as a short Youtube video below. 
+
 
 
 If you have any question
